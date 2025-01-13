@@ -36,13 +36,13 @@ jupyter notebook
 Run the notebook to train the model and make predictions.
 
 ## Dataset
-The dataset used in this project is publicly available and contains various medical records related to diabetes. Each record includes attributes such as glucose level, blood pressure, skin thickness, insulin level, BMI, age, etc.
+The dataset used in this project is publicly available on kaggle(https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset) and contains various medical records related to diabetes. Each record includes attributes such as glucose level, blood pressure, skin thickness, insulin level, BMI, age, etc.
 
 ## Model
-The model is built using machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, and Support Vector Machine. Feature selection and hyperparameter tuning have been performed to improve the model's accuracy.
+The model is built using machine learning algorithms which of Logistic Regression. Feature selection and hyperparameter tuning have been performed to improve the model's accuracy.
 
 ## Results
-The performance of the model is evaluated using metrics such as accuracy, precision, recall, and F1-score. The results are presented in the notebook and show the effectiveness of the model in predicting diabetes.
+The performance of the model is evaluated using metrics such as accuracy. The results are presented in the notebook and show the effectiveness of the model in predicting diabetes.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes appropriate tests.
